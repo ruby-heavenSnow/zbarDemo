@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\MyDemo\\zbardemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_light.png",
+        "source": "E:\\MyDemo\\zbardemo\\app\\src\\main\\res\\drawable-hdpi\\icon_light.png"
+    },
+    {
+        "merged": "E:\\MyDemo\\zbardemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_line.png",
+        "source": "E:\\MyDemo\\zbardemo\\app\\src\\main\\res\\drawable-hdpi\\scan_line.png"
+    },
+    {
+        "merged": "E:\\MyDemo\\zbardemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\MyDemo\\zbardemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyDemo\\zbardemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_light_hover.png",
+        "source": "E:\\MyDemo\\zbardemo\\app\\src\\main\\res\\drawable-hdpi\\icon_light_hover.png"
+    },
+    {
+        "merged": "E:\\MyDemo\\zbardemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\MyDemo\\zbardemo\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\MyDemo\\zbardemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_scan.png",
+        "source": "E:\\MyDemo\\zbardemo\\app\\src\\main\\res\\drawable-hdpi\\home_scan.png"
+    },
+    {
+        "merged": "E:\\MyDemo\\zbardemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_search.png",
+        "source": "E:\\MyDemo\\zbardemo\\app\\src\\main\\res\\drawable-hdpi\\home_search.png"
+    },
+    {
+        "merged": "E:\\MyDemo\\zbardemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_back.png",
+        "source": "E:\\MyDemo\\zbardemo\\app\\src\\main\\res\\drawable-hdpi\\icon_back.png"
+    }
+]

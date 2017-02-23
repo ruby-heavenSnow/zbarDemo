@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\MyDemo\\zbardemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "E:\\MyDemo\\zbardemo\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\MyDemo\\zbardemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "E:\\MyDemo\\zbardemo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

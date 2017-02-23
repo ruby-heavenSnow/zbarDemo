@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\MyDemo\\zbardemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\MyDemo\\zbardemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\zbardemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "E:\\MyDemo\\zbardemo\\app\\src\\main\\res\\layout\\capture.xml"
+    }
+]

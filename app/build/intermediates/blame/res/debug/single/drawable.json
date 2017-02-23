@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\MyDemo\\zbardemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dark_grey_rectangle.xml",
+        "source": "E:\\MyDemo\\zbardemo\\app\\src\\main\\res\\drawable\\shape_dark_grey_rectangle.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\zbardemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_icon_back_hover.xml",
+        "source": "E:\\MyDemo\\zbardemo\\app\\src\\main\\res\\drawable\\shape_icon_back_hover.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\zbardemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_icon_back.xml",
+        "source": "E:\\MyDemo\\zbardemo\\app\\src\\main\\res\\drawable\\selector_icon_back.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\zbardemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_home_search_bg.xml",
+        "source": "E:\\MyDemo\\zbardemo\\app\\src\\main\\res\\drawable\\shape_home_search_bg.xml"
+    }
+]
